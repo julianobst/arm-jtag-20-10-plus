@@ -5,5 +5,6 @@ The adaptor can be used by a debug probe with a standard [ARM JTAG 20](http://in
 
 ![alt text](images/JtagArm20Adapter_top.png "Adaptor top view")
 ![alt text](images/JtagArm20Adapter_iso.png "Adaptor isometic view")
+![alt text](images/JtagArm20Adapter_front.png "Adaptor front view")
 
-As target connectors, the adaptor provides a ARM JTAG 20 with 1.27 mm pitch (J2), a 10 pin SWD Cortex Debug Connector with 1.27 mm pitch (J1) and a simple 6 pin 2.54 mm pitch header for SWD (J1) according to the SWD header of the STM32 Nucleo board.
+As target connectors, the adaptor provides a 20 and a 10 pin SWD Cortex debug connector with 1.27 mm pitch (J1, J2) and a simple 6 pin 2.54 mm pitch header for SWD (J3) according to the SWD header of the STM32 Nucleo board.
